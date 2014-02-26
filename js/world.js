@@ -1,4 +1,4 @@
-(function () {		// jshint bitwise: false
+(function () {
 	'use strict';
 
 	var World = function (width, height, target) {
@@ -18,9 +18,16 @@
 		return this;
 	};
 
-	World.prototype.start = function () { if (this.running) return this; this.running = true; return this.tick(); };
 	World.prototype.stop = function () { this.running = false; return this; };
+	World.prototype.start = function () {
+		if (this.running) return this;
+		this.running = true;
+		return this.tick();
+	};
 
+	/**
+	 * World iteration (every dot will move)
+	 */
 	World.prototype.tick = function () {
 		if (!this.running) return;
 		var self = this, i = 0, dot;
@@ -29,11 +36,15 @@
 		return this;
 	};
 
+	/**
+	 * Add Dot to the world
+	 * @param {object} dot  dot instance
+	 */
 	World.prototype.add = function (dot) {
-		dot.el.appendTo(this.el);
+		this.dots.push(dot);
+		this.el.append(dot.el);
 		dot.el[0].style.width = this.size.dot + 'em';
 		dot.el[0].style.height = this.size.dot + 'em';
-		this.dots.push(dot);
 		return this;
 	};
 

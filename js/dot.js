@@ -16,7 +16,6 @@
 		world.add(this);
 		this.world = world;
 		this.pos = { x: rand(world.size.width - 1), y: rand(world.size.height - 1) };
-
 		return this.move();
 	};
 
