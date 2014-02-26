@@ -1,4 +1,0 @@
-life-simulator
-==============
-
-life-simulator

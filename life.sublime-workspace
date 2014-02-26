@@ -1,0 +1,2043 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"for",
+				"for	for-(improved)"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"backgro",
+				"background-clip"
+			],
+			[
+				"back",
+				"background-clip"
+			],
+			[
+				"where_",
+				"where_user_id"
+			],
+			[
+				"form",
+				"formatCounter"
+			],
+			[
+				"tool",
+				"toolbar-height"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"ove",
+				"overflow-y"
+			],
+			[
+				"over",
+				"overflow"
+			],
+			[
+				"php",
+				"phpinfo"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"_pop",
+				"_populateStats"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"_si",
+				"_sourcesContainer"
+			],
+			[
+				"_toggle",
+				"_toggleUnread"
+			],
+			[
+				"array_",
+				"array_walk"
+			],
+			[
+				"borde",
+				"border-top"
+			],
+			[
+				"cou",
+				"countItems"
+			],
+			[
+				"S",
+				"Source"
+			],
+			[
+				"_get",
+				"_getSourceEditHtml"
+			],
+			[
+				"_sour",
+				"_sourcesContainer"
+			],
+			[
+				"_to",
+				"_toggleExpand"
+			],
+			[
+				"li",
+				"linkType"
+			],
+			[
+				"_na",
+				"_onNavChange"
+			],
+			[
+				"Font",
+				"FontAwesome"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"text",
+				"text-shadow"
+			],
+			[
+				"call",
+				"callback"
+			],
+			[
+				"item",
+				"items"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"side",
+				"sidebar-width"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"xm",
+				"xmasDay"
+			],
+			[
+				"console",
+				"console.	console.log()"
+			],
+			[
+				"last",
+				"last_entry_date"
+			],
+			[
+				"up",
+				"updateNofitication"
+			],
+			[
+				"it",
+				"items2"
+			],
+			[
+				"work_t",
+				"work_type_id"
+			],
+			[
+				"column",
+				"columnChart"
+			],
+			[
+				"colum",
+				"columnChartContainer"
+			],
+			[
+				"ui-sele",
+				"ui-selectee"
+			],
+			[
+				"td-",
+				"td-worktype"
+			],
+			[
+				"start",
+				"xStartRow"
+			],
+			[
+				"str",
+				"stripTagsOnPaste"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"newP",
+				"newPass1"
+			],
+			[
+				"cu",
+				"currentPass"
+			],
+			[
+				"uniq",
+				"array_unique"
+			],
+			[
+				"load",
+				"loadUsersHours"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"toda",
+				"todayStr"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"bgc",
+				"bgc	background-color"
+			],
+			[
+				"copie",
+				"CopiedData"
+			],
+			[
+				"Copied",
+				"CopiedPattern"
+			],
+			[
+				"Copie",
+				"CopiedData"
+			],
+			[
+				"cont",
+				"containerH"
+			],
+			[
+				"fo",
+				"dateFormat"
+			],
+			[
+				"sho",
+				"shoudStay"
+			],
+			[
+				"curre",
+				"currentDate"
+			],
+			[
+				"clea",
+				"clear"
+			],
+			[
+				"clear",
+				"clearItems"
+			],
+			[
+				"desc",
+				"description"
+			],
+			[
+				"des",
+				"description"
+			],
+			[
+				"count",
+				"countD"
+			],
+			[
+				"coun",
+				"countP"
+			],
+			[
+				"selection",
+				"selectionChanged"
+			],
+			[
+				"ga",
+				"gradient"
+			],
+			[
+				"un",
+				"unselectAll"
+			],
+			[
+				"en",
+				"entry"
+			],
+			[
+				"jso",
+				"json_decode"
+			],
+			[
+				"onSe",
+				"onSelected"
+			],
+			[
+				"weekda",
+				"weekday-collapsed"
+			],
+			[
+				"wee",
+				"weekYear"
+			],
+			[
+				"we",
+				"weekYear"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"_",
+				"_formatDate"
+			],
+			[
+				"_fo",
+				"_formatDateShort"
+			],
+			[
+				"change",
+				"changeTo"
+			],
+			[
+				"format",
+				"formatDate"
+			],
+			[
+				"empt",
+				"emptyDay"
+			],
+			[
+				"get",
+				"getDayHtml"
+			],
+			[
+				"type",
+				"typeof"
+			],
+			[
+				"week",
+				"weekday-collapsed"
+			],
+			[
+				"exp",
+				"expandDay"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"paddin",
+				"padding-right"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"ent",
+				"entries"
+			],
+			[
+				"fun",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "js/app.js",
+			"settings":
+			{
+				"buffer_size": 372,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/style.css",
+			"settings":
+			{
+				"buffer_size": 1078,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/world.js",
+			"settings":
+			{
+				"buffer_size": 2418,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/dot.js",
+			"settings":
+			{
+				"buffer_size": 1302,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/User/_builder.sublime-build",
+	"command_palette":
+	{
+		"height": 113.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"convetab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"convertab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"list packa",
+				"Package Control: List Packages"
+			],
+			[
+				"remove package",
+				"Package Control: Remove Package"
+			],
+			[
+				"removep",
+				"Tag: Remove Picked Tags in Document"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"converta",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"keyb",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"pref u",
+				"Preferences: Settings - User"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"batch",
+				"Set Syntax: Batch File"
+			],
+			[
+				"conveta",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"conver",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"convertota",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"convertto ta",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"conver ta",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"convert",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"contabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"convertt",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"stylus",
+				"Set Syntax: Stylus"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"fetch",
+				"Fetch: File"
+			],
+			[
+				"edit",
+				"Project: Edit"
+			],
+			[
+				"format",
+				"Format: Javascript"
+			],
+			[
+				"project",
+				"Project: Edit"
+			],
+			[
+				"remove packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"editp",
+				"Zen Coding: Move caret to next edit point"
+			],
+			[
+				"edit ",
+				"Project: Edit"
+			],
+			[
+				"upgrade",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"Package Control: list",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 402.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Projects/js-shim/src/js-shim.js",
+		"/D/Projects/_playground/life-simulator/index.html",
+		"/D/Projects/myreader/myreader/web-src/styl/main.styl",
+		"/D/Projects/myreader/myreader/web-src/styl/sidebar.styl",
+		"/D/Projects/_playground/life-simulator/css/style.css",
+		"/D/Projects/worklog/worklog-dayeditor/_js/day-editor/core.js",
+		"/D/Projects/worklog/worklog-dayeditor/_js/day-editor/events.js",
+		"/D/Projects/frame/src/events.js",
+		"/D/Projects/frame/src/core.js",
+		"/D/Projects/frame/src/router.js",
+		"/C/Users/Tomek/Desktop/index.html",
+		"/C/bin/movies.js",
+		"/D/Archiwum/Sublime Text 3/Data/Packages/User/JsFormat.sublime-settings",
+		"/C/bin/__test.html",
+		"/D/Archiwum/Sublime Text 3/Data/Packages/JsFormat/JsFormat.sublime-settings",
+		"/D/Archiwum/Sublime Text 3/Data/Packages/SublimeLinter/README.md",
+		"/C/Users/Tomek/Desktop/jmYX8Vsq.xml",
+		"/C/Users/Tomek/Desktop/jmYX8Vsq2.xml",
+		"/D/Projects/myreader/myreader/application/models/rss.php",
+		"/D/Projects/myreader/myreader/application/models/item.php",
+		"/D/Projects/myreader/myreader/application/routes.php",
+		"/D/Projects/myreader/myreader/application/controllers/item.php",
+		"/D/Projects/myreader/myreader/application/views/home/settings.blade.php",
+		"/D/Projects/myreader/myreader/gruntfile.js",
+		"/D/Projects/worklog/worklog/gruntfile.js",
+		"/D/Projects/myreader/myreader/application/controllers/source.php",
+		"/D/Projects/myreader/myreader/application/models/source.php",
+		"/D/Projects/myreader/myreader/web-src/js/modules/settings.js",
+		"/D/Projects/myreader/myreader/web-src/js/modules/main.js",
+		"/D/Projects/myreader/myreader/web-src/js/app/app.js",
+		"/C/bin/sms.js",
+		"/C/Users/Tomek/Desktop/books.txt",
+		"/D/Projects/myreader/myreader/web-src/js/modules/nav.js",
+		"/D/Projects/myreader/myreader/application/views/home/index.blade.php",
+		"/D/Projects/myreader/myreader/application/views/master.blade.php",
+		"/D/Projects/myreader/myreader/package.json",
+		"/D/Projects/myreader/myreader/web-src/styl/style.styl",
+		"/D/Projects/myreader/myreader/web-src/styl/common.styl",
+		"/D/Projects/myreader/myreader/web-src/styl/login.styl",
+		"/D/Projects/myreader/myreader/web-src/styl/toolbar.styl",
+		"/D/Projects/myreader/myreader/application/controllers/home.php",
+		"/D/Projects/myreader/myreader/web-src/styl/_lib.styl",
+		"/C/Users/Tomek/Desktop/test.html",
+		"/D/Projects/myreader/myreader/web-src/js/app/app-util.js",
+		"/D/Projects/myreader/myreader/web-src/styl/settings.styl",
+		"/D/Projects/myreader/myreader/README.md",
+		"/D/Projects/myreader/myreader/web-src/js/app/app-ajax.js",
+		"/D/Projects/myreader/myreader/application/config/database.php",
+		"/D/Projects/myreader/myreader/application/config/application.php",
+		"/D/Projects/myreader/myreader/laravel/database.php",
+		"/D/Projects/myreader/myreader/application/config/strings.php",
+		"/D/Projects/myreader/myreader/application/start.php",
+		"/D/Projects/myreader/myreader/laravel/database/eloquent/model.php",
+		"/D/Projects/myreader/myreader/laravel/helpers.php",
+		"/D/Projects/myreader/myreader/web-src/styl/buttons.styl",
+		"/D/Projects/myreader/myreader/application/views/home/login.blade.php",
+		"/D/Projects/myreader/myreader/paths.php",
+		"/D/Projects/myreader/myreader/laravel/cli/tasks/task.php",
+		"/D/Projects/myreader/myreader/laravel/response.php",
+		"/D/Projects/myreader/myreader/application/views/error/404.php",
+		"/D/Projects/myreader/myreader/web-src/styl/_mobile.styl",
+		"/D/Projects/myreader/myreader/web-src/styl/reset.styl",
+		"/D/Projects/myreader/myreader/web-src/js/app/app-pubsub.js",
+		"/D/Projects/myreader/myreader/laravel/database/connection.php",
+		"/D/Projects/myreader/myreader/application/migrations/2013_04_28_133453_create_sources_table.php",
+		"/D/Projects/myreader/myreader/application/migrations/2013_04_28_134043_create_items_table.php",
+		"/D/Projects/myreader/myreader/application/libraries/simplepie.php",
+		"/D/Projects/myreader/myreader/application/migrations/2013_04_28_140431_create_users_table.php",
+		"/D/Projects/myreader/myreader/web-src/js/modules/login.js",
+		"/D/Projects/myreader/myreader/application/models/user.php",
+		"/D/Projects/worklog/worklog/application/models/User.php",
+		"/D/Projects/worklog/worklog/web-src/js/modules/login.js",
+		"/D/Projects/worklog/worklog/web-src/styl/modules/main.styl",
+		"/D/Projects/worklog/worklog/web-src/styl/modules/login.styl",
+		"/D/Projects/worklog/worklog/application/routes.php",
+		"/D/Projects/myreader/myreader/laravel/vendor/Symfony/Component/HttpFoundation/HeaderBag.php",
+		"/D/Projects/myreader/myreader/application/models/JSON.php",
+		"/D/Projects/myreader/myreader/web-src/styl/opml.styl",
+		"/D/Projects/myreader/myreader/laravel/auth/drivers/eloquent.php",
+		"/D/Projects/worklog/worklog/web-src/js/modules/calendar.js",
+		"/D/Projects/myreader/myreader/web-src/js/modules/toolbar.js",
+		"/D/Projects/myreader/myreader/web-src/js/modules/sidebar.js",
+		"/D/Projects/myreader/myreader/web-src/js/modules/settings-main.js",
+		"/D/Projects/myreader/myreader/web-src/js/app/app-ext.js",
+		"/C/Users/Tomek/Desktop/ContentLoader.php",
+		"/C/Users/Tomek/Desktop/feed.php",
+		"/D/Projects/myreader/myreader/laravel/database/schema.php",
+		"/D/Projects/myreader/myreader/myreader.sublime-project",
+		"/C/Users/Tomek/Desktop/SpoutLoader.php",
+		"/D/Projects/myreader/myreader/laravel/pluralizer.php",
+		"/D/Projects/myreader/myreader/application/bundles.php",
+		"/D/Projects/myreader/myreader/application/simplepie_1.3.1.mini.php",
+		"/C/Users/Tomek/AppData/Local/Temp/7zEB669.tmp/feed.php",
+		"/D/Projects/worklog/worklog/application/models/Project.php",
+		"/D/Projects/myreader/myreader/web-src/js/jquery/jquery.formparams.js",
+		"/D/Projects/worklog/worklog/application/controllers/home.php",
+		"/D/Archiwum/Sublime Text 2.0.1/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/D/Archiwum/Sublime Text 2.0.1/Data/Packages/Default/Default (Windows).sublime-keymap",
+		"/D/Archiwum/Sublime Text 2.0.1/Data/Packages/User/Preferences.sublime-settings",
+		"/D/Projects/myreader/myreader2/web-src/js/modules/main.js",
+		"/D/Projects/myreader/myreader2/application/controllers/item.php",
+		"/D/Projects/myreader/myreader2/application/routes.php",
+		"/D/Projects/myreader/myreader2/application/models/item.php",
+		"/D/Projects/worklog/worklog/application/controllers/day.php",
+		"/D/Projects/worklog/worklog/application/controllers/incomplete.php",
+		"/D/Projects/myreader/myreader2/web-src/styl/style.styl",
+		"/D/Projects/myreader/myreader2/application/models/source.php",
+		"/D/Projects/worklog/worklog/application/models/Charts.php",
+		"/D/Projects/worklog/worklog/application/models/Entry.php",
+		"/D/Projects/myreader/myreader2/web-src/js/modules/toolbar.js",
+		"/D/Projects/myreader/myreader2/web-src/js/modules/sidebar.js",
+		"/D/Projects/myreader/myreader2/application/views/home/index.blade.php",
+		"/D/Projects/myreader/myreader2/web-src/styl/reset.styl",
+		"/D/Projects/myreader/myreader2/application/migrations/2013_04_28_134043_create_items_table.php",
+		"/D/Projects/myreader/myreader2/application/migrations/2013_04_28_133453_create_sources_table.php",
+		"/D/Projects/worklog/worklog/application/models/UserProject.php",
+		"/D/Projects/myreader/myreader2/application/controllers/source.php",
+		"/D/Projects/worklog/worklog/application/models/Day.php",
+		"/D/Projects/myreader/myreader2/application/models/feed.php",
+		"/D/Projects/myreader/myreader2/application/controllers/feed.php",
+		"/D/Projects/myreader/myreader2/web-src/js/app/app-ajax.js",
+		"/D/Projects/myreader/myreader2/application/migrations/2013_04_28_133453_create_feeds_table.php",
+		"/D/Projects/myreader/myreader2/web-src/js/app/app.js",
+		"/D/Projects/myreader/myreader2/web-src/js/app/app-util.js",
+		"/D/Projects/myreader/myreader2/web-src/js/app/app-ext.js",
+		"/D/Projects/myreader/myreader2/web-src/js/app/app-pubsub.js",
+		"/D/Projects/myreader/myreader2/web-src/js/app/app-storage.js",
+		"/D/Projects/myreader/myreader2/myreader2.sublime-project"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+			"*.php",
+			"*.js",
+			"*.php",
+			"*.js",
+			"*.php",
+			"*.styl",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"webkit",
+			"white",
+			"translate3d",
+			"transla",
+			"isRunning",
+			"dotSize",
+			"size.dot",
+			"_rand",
+			"size.dot",
+			"this.world.size",
+			"this.pos",
+			"this.",
+			"_moves",
+			"old.",
+			"old",
+			"pos",
+			"size.dot",
+			"_getNewPos",
+			"newPos",
+			"_dirs",
+			"dir",
+			"World",
+			"18",
+			"255",
+			"'');",
+			"Aired on ",
+			"&lt;",
+			"<description>(.)*</description>",
+			"<item>",
+			"<description>",
+			"description",
+			"update_feed",
+			"clean_feed",
+			"Access denied!",
+			"'Access denied!'",
+			"_getItemHtml",
+			"(",
+			"_populate",
+			"_getItemHtml",
+			"- €",
+			") -",
+			"	",
+			"2012",
+			"2013",
+			"jun ",
+			"update_feed",
+			"monthAgo",
+			"notOlderThan",
+			"hlConf",
+			"_body",
+			"scrollTop",
+			"0 1px 0 #fff",
+			"_toolbar",
+			"left",
+			"load-mo",
+			"_getMoreLoader",
+			"_items",
+			"_load",
+			"_loadMoreClickHandler",
+			"_load",
+			"_getMoreLoader",
+			"_",
+			"_params",
+			"nav/refresh",
+			"_load",
+			"_params",
+			"_getItemHtml",
+			"item::get",
+			"$src",
+			"_formatCounter",
+			"num",
+			"html",
+			"datetime",
+			"_showUpdateLoading",
+			"_updateAllFeeds",
+			"App.Error",
+			"App.Msg",
+			"_updateRequest",
+			"Class(",
+			"addclass",
+			"_updateAllFeeds",
+			"_btnClickHandler",
+			": ",
+			"button.minimal",
+			": ",
+			",",
+			"}",
+			"{",
+			"_getSourceEditHtml",
+			"h3",
+			"_entryLinkClickHandler",
+			"_entryClickHandler",
+			"translate3d",
+			"sidebar",
+			"3d",
+			"_toggleUnread",
+			"_scrollEntryToView",
+			"animate",
+			"toolbar",
+			"fixed",
+			"path",
+			"shadow",
+			"min-width",
+			"0",
+			"created_at",
+			"_getSourceHtml",
+			"get_real_url",
+			"is_unread",
+			"item::get",
+			"cfg",
+			"_toggleUnread",
+			"_scrollEntryToView",
+			"_nextItem",
+			"_toggleUnread",
+			"_nextItem",
+			"_btnClickHandler",
+			"_toggleUnread",
+			"_nextItem",
+			"nav/next",
+			"_toolbarBtnHandler",
+			"_nextItem",
+			"nav/next",
+			"nav/refresh",
+			"_load",
+			"url",
+			"\"",
+			", '",
+			"login"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": true,
+		"regex": true,
+		"replace_history":
+		[
+			"	",
+			"url(../img",
+			":url(../img",
+			"'",
+			"_documentClick",
+			"_decodeEntities",
+			"_mapName",
+			"_highlightItem",
+			"_adjustPosition",
+			"_getItemHtml",
+			"_getHtml",
+			"_filterHtml",
+			"_populate",
+			"_selectedItem",
+			"_self.",
+			"_self",
+			"_self.",
+			"_highlightObj",
+			"_focused",
+			"_isExpanded",
+			"_originalEl",
+			"_items",
+			"_input",
+			"_label",
+			"_menu",
+			"_button",
+			".font-icon-",
+			"'",
+			") {",
+			"function (",
+			" || ",
+			"'",
+			") {",
+			"function ("
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "js/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 372,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								189,
+								189
+							],
+							[
+								238,
+								238
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": false,
+								"box-sizing": false,
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": false,
+								"ids": false,
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"bitwise": true,
+								"boss": true,
+								"browser": true,
+								"eqeqeq": true,
+								"immed": true,
+								"indent": 4,
+								"jquery": true,
+								"latedef": true,
+								"maxlen": 130,
+								"newcap": true,
+								"noarg": true,
+								"noempty": true,
+								"nonew": true,
+								"onevar": true,
+								"quotmark": true,
+								"smarttabs": true,
+								"trailing": true,
+								"undef": true,
+								"unused": true,
+								"white": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+								"css": "C:\\Program Files\\nodejs\\node.exe",
+								"html": "C:\\Program Files\\nodejs\\node.exe",
+								"javascript": "C:\\Program Files\\nodejs\\node.exe"
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"JSON": "javascript",
+								"jQueryJavaScript": "javascript"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/jQuery/Syntaxes/jQueryJavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1078,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1057,
+								1057
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": false,
+								"box-sizing": false,
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": false,
+								"ids": false,
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"bitwise": true,
+								"boss": true,
+								"browser": true,
+								"eqeqeq": true,
+								"immed": true,
+								"indent": 4,
+								"jquery": true,
+								"latedef": true,
+								"maxlen": 130,
+								"newcap": true,
+								"noarg": true,
+								"noempty": true,
+								"nonew": true,
+								"onevar": true,
+								"quotmark": true,
+								"smarttabs": true,
+								"trailing": true,
+								"undef": true,
+								"unused": true,
+								"white": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+								"css": "C:\\Program Files\\nodejs\\node.exe",
+								"html": "C:\\Program Files\\nodejs\\node.exe",
+								"javascript": "C:\\Program Files\\nodejs\\node.exe"
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"JSON": "javascript",
+								"jQueryJavaScript": "javascript"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 189.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "js/world.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2418,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								278,
+								278
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": false,
+								"box-sizing": false,
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": false,
+								"ids": false,
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"bitwise": true,
+								"boss": true,
+								"browser": true,
+								"eqeqeq": true,
+								"immed": true,
+								"indent": 4,
+								"jquery": true,
+								"latedef": true,
+								"maxlen": 130,
+								"newcap": true,
+								"noarg": true,
+								"noempty": true,
+								"nonew": true,
+								"onevar": true,
+								"quotmark": true,
+								"smarttabs": true,
+								"trailing": true,
+								"undef": true,
+								"unused": true,
+								"white": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+								"css": "C:\\Program Files\\nodejs\\node.exe",
+								"html": "C:\\Program Files\\nodejs\\node.exe",
+								"javascript": "C:\\Program Files\\nodejs\\node.exe"
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"JSON": "javascript",
+								"jQueryJavaScript": "javascript"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/jQuery/Syntaxes/jQueryJavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "js/dot.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1302,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1149,
+								1149
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": false,
+								"box-sizing": false,
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": false,
+								"ids": false,
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"bitwise": true,
+								"boss": true,
+								"browser": true,
+								"eqeqeq": true,
+								"immed": true,
+								"indent": 4,
+								"jquery": true,
+								"latedef": true,
+								"maxlen": 130,
+								"newcap": true,
+								"noarg": true,
+								"noempty": true,
+								"nonew": true,
+								"onevar": true,
+								"quotmark": true,
+								"smarttabs": true,
+								"trailing": true,
+								"undef": true,
+								"unused": true,
+								"white": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+								"css": "C:\\Program Files\\nodejs\\node.exe",
+								"html": "C:\\Program Files\\nodejs\\node.exe",
+								"javascript": "C:\\Program Files\\nodejs\\node.exe"
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"JSON": "javascript",
+								"jQueryJavaScript": "javascript"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/jQuery/Syntaxes/jQueryJavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 37.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.exec":
+	{
+		"height": 172.0
+	},
+	"project": "life.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"css",
+				"css\\style.css"
+			],
+			[
+				"cs",
+				"css\\style.css"
+			],
+			[
+				"rss",
+				"application\\models\\rss.php"
+			],
+			[
+				"itemp",
+				"application\\controllers\\item.php"
+			],
+			[
+				"route",
+				"application\\routes.php"
+			],
+			[
+				"source",
+				"application\\models\\source.php"
+			],
+			[
+				"sour",
+				"application\\models\\source.php"
+			],
+			[
+				"item",
+				"application\\controllers\\item.php"
+			],
+			[
+				"app",
+				"web-src\\js\\app\\app.js"
+			],
+			[
+				"setting",
+				"web-src\\js\\modules\\settings.js"
+			],
+			[
+				"settings",
+				"application\\views\\home\\settings.blade.php"
+			],
+			[
+				"home",
+				"application\\views\\home\\index.blade.php"
+			],
+			[
+				"inde",
+				"application\\views\\home\\index.blade.php"
+			],
+			[
+				"main",
+				"web-src\\styl\\main.styl"
+			],
+			[
+				"sideb",
+				"web-src\\styl\\sidebar.styl"
+			],
+			[
+				"comm",
+				"web-src\\styl\\common.styl"
+			],
+			[
+				"sty",
+				"web-src\\styl\\style.styl"
+			],
+			[
+				"style",
+				"web-src\\styl\\style.styl"
+			],
+			[
+				"mainjs",
+				"web-src\\js\\modules\\main.js"
+			],
+			[
+				"tool",
+				"web-src\\styl\\toolbar.styl"
+			],
+			[
+				"util",
+				"web-src\\js\\app\\app-util.js"
+			],
+			[
+				"nav",
+				"web-src\\js\\modules\\nav.js"
+			],
+			[
+				"ite",
+				"application\\controllers\\item.php"
+			],
+			[
+				"mainst",
+				"web-src\\styl\\main.styl"
+			],
+			[
+				"_lib",
+				"web-src\\styl\\_lib.styl"
+			],
+			[
+				"mains",
+				"web-src\\styl\\main.styl"
+			],
+			[
+				"mas",
+				"application\\views\\master.blade.php"
+			],
+			[
+				"master",
+				"application\\views\\master.blade.php"
+			],
+			[
+				"in",
+				"application\\views\\home\\index.blade.php"
+			],
+			[
+				"rout",
+				"application\\routes.php"
+			],
+			[
+				"mainl",
+				"web-src\\styl\\main.styl"
+			],
+			[
+				"app-a",
+				"web-src\\js\\app\\app-ajax.js"
+			],
+			[
+				"sett",
+				"web-src\\js\\modules\\settings.js"
+			],
+			[
+				"setb",
+				"application\\views\\home\\settings.blade.php"
+			],
+			[
+				"data",
+				"application\\config\\database.php"
+			],
+			[
+				"help",
+				"laravel\\helpers.php"
+			],
+			[
+				"sou",
+				"application\\controllers\\source.php"
+			],
+			[
+				"set",
+				"application\\views\\home\\settings.blade.php"
+			],
+			[
+				"app-",
+				"web-src\\js\\app\\app-ajax.js"
+			],
+			[
+				"too",
+				"web-src\\styl\\toolbar.styl"
+			],
+			[
+				"st",
+				"web-src\\styl\\style.styl"
+			],
+			[
+				"button",
+				"web-src\\styl\\buttons.styl"
+			],
+			[
+				"common",
+				"web-src\\styl\\common.styl"
+			],
+			[
+				"maste",
+				"application\\views\\master.blade.php"
+			],
+			[
+				"path",
+				"paths.php"
+			],
+			[
+				"helpe",
+				"laravel\\helpers.php"
+			],
+			[
+				"itm",
+				"application\\models\\item.php"
+			],
+			[
+				"rou",
+				"application\\routes.php"
+			],
+			[
+				"task",
+				"laravel\\cli\\tasks\\task.php"
+			],
+			[
+				"respons",
+				"laravel\\response.php"
+			],
+			[
+				"gru",
+				"gruntfile.js"
+			],
+			[
+				"reset",
+				"web-src\\styl\\reset.styl"
+			],
+			[
+				"settbla",
+				"application\\views\\home\\settings.blade.php"
+			],
+			[
+				"syt",
+				"web-src\\styl\\style.styl"
+			],
+			[
+				"setti",
+				"web-src\\js\\modules\\settings.js"
+			],
+			[
+				"appp",
+				"web-src\\js\\app\\app-pubsub.js"
+			],
+			[
+				"simpl",
+				"application\\libraries\\simplepie.php"
+			],
+			[
+				"login",
+				"web-src\\js\\modules\\login.js"
+			],
+			[
+				"loginbl",
+				"application\\views\\home\\login.blade.php"
+			],
+			[
+				"log",
+				"application\\views\\home\\login.blade.php"
+			],
+			[
+				"simplep",
+				"application\\libraries\\simplepie.php"
+			],
+			[
+				"styl",
+				"web-src\\styl\\style.styl"
+			],
+			[
+				"mode",
+				"laravel/database/eloquent/model.php"
+			],
+			[
+				"model",
+				"laravel/database/eloquent/model.php"
+			],
+			[
+				"eloq",
+				"laravel/auth/drivers/eloquent.php"
+			],
+			[
+				"side",
+				"web-src/js/modules/sidebar.js"
+			],
+			[
+				"main.j",
+				"web-src/js/modules/main.js"
+			],
+			[
+				"sideba",
+				"web-src/js/modules/sidebar.js"
+			],
+			[
+				"appex",
+				"web-src/js/app/app-ext.js"
+			],
+			[
+				"appe",
+				"web-src/js/app/app-ext.js"
+			],
+			[
+				"schema",
+				"laravel/database/schema.php"
+			],
+			[
+				"helper",
+				"laravel/helpers.php"
+			],
+			[
+				"app-ut",
+				"web-src/js/app/app-util.js"
+			],
+			[
+				"sor",
+				"application/controllers/source.php"
+			],
+			[
+				"app-e",
+				"web-src/js/app/app-ext.js"
+			],
+			[
+				"asset",
+				"laravel/asset.php"
+			],
+			[
+				"table",
+				"laravel/database/schema/table.php"
+			],
+			[
+				"datab",
+				"application/config/database.php"
+			],
+			[
+				"sty/",
+				"node_modules/grunt-contrib-stylus/test/expected/nib_/nib_.css"
+			],
+			[
+				"grunt",
+				"gruntfile.js"
+			],
+			[
+				"_li",
+				"web-src/styl/_lib.styl"
+			],
+			[
+				"font",
+				"public/css/font-awesome.min.css"
+			],
+			[
+				"ho",
+				"templates/home.phtml"
+			],
+			[
+				"ma",
+				"web-src/js/modules/main.js"
+			],
+			[
+				"hom",
+				"templates/home.phtml"
+			],
+			[
+				"mainj",
+				"web-src/js/modules/main.js"
+			],
+			[
+				"gr",
+				"gruntfile.js"
+			],
+			[
+				"nano",
+				"web-src/js/widgets/jquery.nanoscroller.js"
+			],
+			[
+				"viewh",
+				"helpers/ViewHelper.php"
+			],
+			[
+				"items",
+				"controllers/Items.php"
+			],
+			[
+				"appa",
+				"web-src/js/app/app-ajax.js"
+			],
+			[
+				"appjs",
+				"public/js/app.js"
+			],
+			[
+				"_ma",
+				"web-src/styl/_main.styl"
+			],
+			[
+				"_styl",
+				"web-src/styl/_sidebar.styl"
+			],
+			[
+				"_na",
+				"web-src/styl/_nav.styl"
+			],
+			[
+				"styls",
+				"web-src/styl/style.styl"
+			],
+			[
+				"appstor",
+				"web-src/js/app/app-storage.js"
+			],
+			[
+				"projeclo",
+				"application/models/ProjectLog.php"
+			],
+			[
+				"blade",
+				"application/views/home/stats.blade.php"
+			],
+			[
+				"itogg",
+				"web-src/js/widgets/jquery.itoggle.js"
+			],
+			[
+				"datepi",
+				"web-src/js/widgets/jquery.datepicker.js"
+			],
+			[
+				"datera",
+				"web-src/js/widgets/jquery.daterangepicker.js"
+			],
+			[
+				"users",
+				"web-src/js/modules/users.js"
+			],
+			[
+				"appstora",
+				"web-src/js/app/app-storage.js"
+			],
+			[
+				"date.js",
+				"web-src/js/date.js"
+			],
+			[
+				"datejs",
+				"web-src/js/date.js"
+			],
+			[
+				"entry",
+				"application/models/Entry.php"
+			],
+			[
+				"incompl",
+				"application/controllers/incomplete.php"
+			],
+			[
+				"date",
+				"web-src/js/date.js"
+			],
+			[
+				"cale",
+				"web-src/js/modules/calendar.js"
+			],
+			[
+				"toolt",
+				"web-src/js/widgets/jquery.tooltip.js"
+			],
+			[
+				"projectlo",
+				"application/models/ProjectLog.php"
+			],
+			[
+				"drop",
+				"web-src/js/widgets/dropdown.js"
+			],
+			[
+				"logjs",
+				"web-src/js/modules/log.js"
+			],
+			[
+				"projec",
+				"application/controllers/projectlog.php"
+			],
+			[
+				"proje",
+				"application/controllers/projectlog.php"
+			],
+			[
+				"menu",
+				"application/views/home/menu.blade.php"
+			],
+			[
+				"logbla",
+				"application/views/home/log.blade.php"
+			],
+			[
+				"log.j",
+				"web-src/js/modules/log.js"
+			],
+			[
+				"mablade",
+				"application/views/master.blade.php"
+			],
+			[
+				"logb",
+				"application/views/home/log.blade.php"
+			],
+			[
+				"dropdow",
+				"web-src/js/widgets/dropdown.js"
+			],
+			[
+				"stats",
+				"web-src/js/modules/stats.js"
+			],
+			[
+				"admus",
+				"web-src/js/modules/admin-users.js"
+			],
+			[
+				"dateran",
+				"web-src/js/jquery-plugins/jquery.daterangepicker.js"
+			],
+			[
+				"clip",
+				"web-src/js/modules/clipboard.js"
+			],
+			[
+				"formpara",
+				"web-src/js/jquery-plugins/jquery.formparams.js"
+			],
+			[
+				"adbl",
+				"application/views/home/admin.blade.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 197.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

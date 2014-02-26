@@ -1,0 +1,43 @@
+html, body { margin: 0; padding: 0; background: #bbb; font-size: 100%; overflow: hidden; }
+
+.world {
+	width: 10em;
+	height: 10em;
+	margin: 0 auto;
+	position: relative;
+	border: 1px solid #000;
+	box-shadow: 0 0 0 6px rgba(255, 255, 255, 0.4), 0 0 0 10px #222, 0 1px 0 10px rgba(255, 255, 255, 0.7);
+	background-color: #269;
+	background-image: linear-gradient(white 0, transparent 1px), linear-gradient(90deg, white 0, transparent 1px);
+	background-size: 1.5em 1.5em;
+}
+
+.dot {
+	width: 1.5em;
+	height: 1.5em;
+	position: absolute;
+	font: 1em/1 arial, sans-serif;
+	background: orange;
+	border-radius: 50%;
+
+	/*transition: left .2s ease-out, top .2s ease-out;*/
+
+	-webkit-transition: -webkit-transform .2s ease-out;
+	transition: transform .2s ease-out;
+
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+.dot:after {
+	content: attr(title);
+	font-size: .7em;
+	line-height: 1.4em;
+	text-align: center;
+	top: 1px; right: 1px; bottom: 1px; left: 1px;
+	position: absolute;
+}
+
+.dot-A { background: red; }
