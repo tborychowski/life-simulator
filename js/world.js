@@ -6,14 +6,14 @@
 
 		this.grid = {};
 		this.size = { width: width || 60, height: height || 40, dot: 1 };
-		this.dots = [];
+		this.dots = {};			// { dotId: dot, ... }
 		this.freq = 200;
 		this.running = false;
 
 		this.el = $('<div class="world"></div>')
 			.css({ width: (this.size.width * this.size.dot) + 'em', height: (this.size.height * this.size.dot) + 'em' })
 			.css('background-size', this.size.dot + 'em ' + this.size.dot + 'em')
-			.appendTo(target || 'body');
+			.prependTo(target || 'body');
 
 		return this;
 	};
@@ -30,21 +30,31 @@
 	 */
 	World.prototype.tick = function () {
 		if (!this.running) return;
-		var self = this, i = 0, dot;
-		for (; dot = this.dots[i++] ;) dot.tick(this);
+		var self = this, id;
+		for (id in this.dots) this.dots[id].tick(this);
 		setTimeout(function () { self.tick.call(self); }, this.freq);
 		return this;
 	};
 
 	/**
-	 * Add Dot to the world
+	 * Add a Dot to the world
 	 * @param {object} dot  dot instance
 	 */
 	World.prototype.add = function (dot) {
-		this.dots.push(dot);
+		this.dots[dot.id] = dot;
 		this.el.append(dot.el);
 		dot.el[0].style.width = this.size.dot + 'em';
 		dot.el[0].style.height = this.size.dot + 'em';
+		return this;
+	};
+
+	/**
+	 * Remove a Dot from the world
+	 * @param {object} dot  dot instance
+	 */
+	World.prototype.remove = function (dot) {
+		dot.el.remove();
+		delete this.dots[dot.id];
 		return this;
 	};
 
