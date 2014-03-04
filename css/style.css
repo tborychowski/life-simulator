@@ -1,10 +1,23 @@
-html, body { margin: 0; padding: 0; background: #bbb; font-size: 100%; overflow: hidden; }
+html, body { margin: 0; padding: 0; background: #bbb; font-size: 100%; overflow: hidden;
+	font: 14px/1.4 arial, helvetica, sans-serif;
+}
+h4 { padding: 0; margin: 10px 0; }
 
 .nav { float: left; margin: 20px 10px; }
+
+.stats { border-collapse: collapse; margin: 10px; font-size: 12px; }
+.stats td { border: 1px solid #444; padding: 5px 15px; }
+.stats .lbl { text-align: right; font-weight: bold; }
+.stats .val { min-width: 50px; }
+
+
+
+
 
 .world {
 	width: 10em;
 	height: 10em;
+	font-size: 16px;
 	position: relative;
 	float: left;
 	margin: 30px;
@@ -34,8 +47,8 @@ html, body { margin: 0; padding: 0; background: #bbb; font-size: 100%; overflow:
 
 .dot:after {
 	content: attr(title);
-	font-size: .7em;
-	line-height: 1.4em;
+	font-size: .5em;
+	line-height: 1.8em;
 	text-align: center;
 	top: 1px; right: 1px; bottom: 1px; left: 1px;
 	position: absolute;

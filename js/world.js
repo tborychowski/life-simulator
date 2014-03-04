@@ -1,7 +1,11 @@
 (function () {
 	'use strict';
 
-	var World = function (width, height, target) {
+	var
+	_slice = [].slice,
+	rand = function (max, min) { min = min || 0; return Math.floor(Math.random() * (max - min + 1) + min); },
+
+	World = function (width, height, target) {
 		if (!(this instanceof window.World)) return new window.World(width, height, target);
 
 		this.grid = {};
@@ -45,6 +49,7 @@
 		this.el.append(dot.el);
 		dot.el[0].style.width = this.size.dot + 'em';
 		dot.el[0].style.height = this.size.dot + 'em';
+		this.el.trigger('born', dot);
 		return this;
 	};
 
@@ -55,9 +60,24 @@
 	World.prototype.remove = function (dot) {
 		dot.el.remove();
 		delete this.dots[dot.id];
+		this.el.trigger('die', dot);
 		return this;
 	};
 
+
+	/**
+	 * Find random available spot for a dot
+	 * @return {object}   { x, y }
+	 */
+	World.prototype.findSpot = function () {
+		var pos, id;
+		do {
+			pos = { x: rand(this.size.width - 1), y: rand(this.size.height - 1) },
+			id = pos.x + '-' + pos.y;
+		} while (this.grid[id]);
+
+		return pos;
+	},
 
 	/**
 	 * Get all available directions for a position
@@ -99,6 +119,20 @@
 		this.grid[oldPos.x + '-' + oldPos.y] = false;
 		this.grid[newPos.x + '-' + newPos.y] = true;
 		return this;
+	};
+
+
+
+	/* EVENTS */
+
+	World.prototype.trigger = function (names) { this.el.trigger(names, _slice.call(arguments, 1)); };
+	World.prototype.off = function (names) { this.el.off(names); };
+	World.prototype.on = function (names, callback) {
+		this.el.on(names, function (e) {
+			var args = _slice.call(arguments, 1);
+			if (names.split(' ')[1]) args.unshift(e.type);
+			callback.apply(this, args);
+		});
 	};
 
 

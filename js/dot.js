@@ -38,7 +38,8 @@
 		if (this.color) cls.push('dot-' + this.color);
 
 		this.el = $('<div id="' + this.id + '" class="' + cls.join(' ') + '" title="' + this.age + '"></div>');
-		this.pos = { x: rand(this.world.size.width - 1), y: rand(this.world.size.height - 1) };
+		// this.pos = { x: rand(this.world.size.width - 1), y: rand(this.world.size.height - 1) };
+		this.pos = this.world.findSpot();
 		this.world.add(this);
 		this.el.on('click', $.proxy(this.die, this));
 		return this.move();
