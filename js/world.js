@@ -72,26 +72,26 @@
 	World.prototype.findSpot = function () {
 		var pos, id;
 		do {
-			pos = { x: rand(this.size.width - 1), y: rand(this.size.height - 1) },
+			pos = { x: rand(this.size.width - 1), y: rand(this.size.height - 1) };
 			id = pos.x + '-' + pos.y;
 		} while (this.grid[id]);
 
 		return pos;
-	},
+	};
 
 	/**
 	 * Get all available directions for a position
 	 * @param  {object} pos	position { x: 0, y: 0 }
 	 * @return {array}		array of new available positions a dot can go to
 	 */
-	World.prototype.getAvails = function (pos) {
+	World.prototype.getAvails = function (pos, dot) {
 		var avails = [],
 			x = pos.x,
 			y = pos.y,
 			grid = this.grid,
 			maxW = this.size.width - 1,
 			maxH = this.size.height - 1,
-			push = function (x, y) { if (grid[x + '-' + y] !== true) avails.push({ x: x, y: y }); };
+			push = function (x, y) { if (!grid[x + '-' + y]) avails.push({ x: x, y: y }); };
 
 		avails.push({ x: x, y: y });	// add self position
 		if (y > 0) {
@@ -115,9 +115,9 @@
 	 * @param {object} oldPos	position { x: 0, y: 0 }
 	 * @param {object} newPos	position { x: 0, y: 0 }
 	 */
-	World.prototype.move = function (oldPos, newPos) {
-		this.grid[oldPos.x + '-' + oldPos.y] = false;
-		this.grid[newPos.x + '-' + newPos.y] = true;
+	World.prototype.move = function (oldPos, newPos, dot) {
+		this.grid[oldPos.x + '-' + oldPos.y] = null;
+		this.grid[newPos.x + '-' + newPos.y] = dot;
 		return this;
 	};
 

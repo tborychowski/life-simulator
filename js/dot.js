@@ -38,7 +38,6 @@
 		if (this.color) cls.push('dot-' + this.color);
 
 		this.el = $('<div id="' + this.id + '" class="' + cls.join(' ') + '" title="' + this.age + '"></div>');
-		// this.pos = { x: rand(this.world.size.width - 1), y: rand(this.world.size.height - 1) };
 		this.pos = this.world.findSpot();
 		this.world.add(this);
 		this.el.on('click', $.proxy(this.die, this));
@@ -54,12 +53,12 @@
 
 	Dot.prototype.move = function () {
 		var dotSize = this.world.size.dot,
-			avails = this.world.getAvails(this.pos),
+			avails = this.world.getAvails(this.pos, this),
 			pos = avails[rand(avails.length - 1)],		// randomize new position
 			el = this.el[0],
 			self = this;
 
-		this.world.move(this.pos, pos);					// release old and reserve new cell
+		this.world.move(this.pos, pos, this);			// release old and reserve new cell
 		this.pos = pos;
 		this.age++;
 
@@ -67,8 +66,6 @@
 			el.style.webkitTransform = 'translate(' + (pos.x * dotSize) + 'em,' + (pos.y * dotSize) + 'em)';
 			el.style.transform = 'translate(' + (pos.x * dotSize) + 'em,' + (pos.y * dotSize) + 'em)';
 			el.title = self.age;
-			// el.style.left = (pos.x * dotSize) + 'em';
-			// el.style.top = (pos.y * dotSize) + 'em';
 		});
 
 		return this;
