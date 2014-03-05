@@ -54,7 +54,7 @@
 	Dot.prototype.move = function () {
 		var dotSize = this.world.size.dot,
 			avails = this.world.getAvails(this.pos, this),
-			pos = avails[rand(avails.length - 1)],		// randomize new position
+			pos = avails.pos[rand(avails.pos.length - 1)],		// randomize new position
 			el = this.el[0],
 			self = this;
 
@@ -67,6 +67,8 @@
 			el.style.transform = 'translate(' + (pos.x * dotSize) + 'em,' + (pos.y * dotSize) + 'em)';
 			el.title = self.age;
 		});
+
+		if (avails.sameDot) this.world.addChild(this);
 
 		return this;
 	};

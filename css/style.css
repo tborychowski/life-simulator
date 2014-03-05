@@ -1,6 +1,4 @@
-html, body { margin: 0; padding: 0; background: #bbb; font-size: 100%; overflow: hidden;
-	font: 14px/1.4 arial, helvetica, sans-serif;
-}
+html, body { margin: 0; padding: 0; background: #bbb; font-size: 100%; overflow: hidden; font: 14px/1.4 arial, helvetica, sans-serif; }
 h4 { padding: 0; margin: 10px 0; }
 
 .nav { float: left; margin: 20px 10px; }

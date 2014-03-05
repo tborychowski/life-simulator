@@ -3,7 +3,8 @@
 
 
 	var
-	colors = [ 'yellow', 'orange', 'white', 'chocolate', 'coral', 'cyan', 'maroon' ],
+	// colors = [ 'yellow', 'orange', 'white', 'chocolate', 'coral', 'cyan', 'maroon' ],
+	colors = [ 'yellow', 'orange', 'white' ],
 	stats = {
 		total: 0,
 		alive: 0,
@@ -11,7 +12,7 @@
 		youngest: 999,
 		oldest: 0
 	},
-	wsize = { w: 30, h: 20, dots: 50 },
+	wsize = { w: 10, h: 5, dots: 5 },
 	_statsVals = null,
 
 	rand = function (max, min) { min = min || 0; return Math.floor(Math.random() * (max - min + 1) + min); },
@@ -27,7 +28,7 @@
 			stats.youngest = Math.min(stats.youngest, dot.age);
 			stats.oldest = Math.max(stats.oldest, dot.age);
 		}
-		stats.density = Math.round(stats.alive / (wsize.w * wsize.h) * 100) + '%';
+		stats.density = window.world.density + '%';
 
 		for (var s in stats) _statsVals.filter('.val-' + s).html(stats[s]);
 	},
