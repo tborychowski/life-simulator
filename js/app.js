@@ -3,8 +3,8 @@
 
 
 	var
-	// colors = [ 'yellow', 'orange', 'white', 'chocolate', 'coral', 'cyan', 'maroon' ],
-	colors = [ 'yellow', 'orange', 'white' ],
+	colors = [ 'yellow', 'orange', 'white', 'chocolate', 'coral', 'cyan', 'maroon' ],
+	// colors = [ 'yellow', 'orange', 'white' ],
 	stats = {
 		total: 0,
 		alive: 0,
@@ -12,7 +12,7 @@
 		youngest: 999,
 		oldest: 0
 	},
-	wsize = { w: 10, h: 5, dots: 5 },
+	wsize = { w: 15, h: 10, dots: 3 },
 	_statsVals = null,
 
 	rand = function (max, min) { min = min || 0; return Math.floor(Math.random() * (max - min + 1) + min); },

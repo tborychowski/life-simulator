@@ -50,7 +50,7 @@
 	 * @param {object} dot  dot instance
 	 */
 	World.prototype.add = function (dot) {
-		if (this.density > 90) return this;
+		if (this.density > 50) return this;
 		this.dots[dot.id] = dot;
 		this.el.append(dot.el);
 		dot.el[0].style.width = this.size.dot + 'em';
@@ -62,7 +62,7 @@
 	};
 
 	World.prototype.addChild = function (dot) {
-		if (this.density > 50) return;
+		if (this.density > 30) return;
 		this.childDots[dot.color + '-' + dot.name] = dot;
 	};
 
